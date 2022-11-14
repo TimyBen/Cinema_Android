@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Cinema</string>
+    <string name="movie_description" />
+    <string name="movie_name" />
+    <string name="my_cinema">My Cinema</string>
+    <string name="textview">TextView</string>
+    <string-array name="list">
+        <item>Avengers</item>
+        <item>Travelers</item>
+        <item>Brooklyn 99</item>
+        <item>Black Panther:\nWakanda Forever</item>
+        <item>Ted 2</item>
+        <item>Shaft</item>
+        <item>The Wrong Missy</item>
+        <item>Murder Mystery</item>
+    </string-array>
+    <string-array name="movie_desc">
+        <item><![CDATA[The Avengers, is a 2012 American superhero film \nbased on the Marvel Comics superhero team of the \nsame name.]]></item>
+        <item>Hundreds of years in the future, the last surviving\nhumans discover a way of sending consciousness \nback through time.</item>
+        <item><![CDATA[Brooklyn Nine-Nine is an American police procedural \ncomedy television series that aired on Fox, and later \non NBC.]]></item>
+        <item>Queen Ramonda, Shuri, M\'Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\'Challa\'s death.\n</item>
+        <item><![CDATA[Ted 2 (stylized as ted2) is a 2015 American comedy \nfilm directed by Seth MacFarlane, from a script \nwritten by MacFarlane, Alec Sulkin, and \nWellesley Wild.]]></item>
+        <item>JJ Shaft, a cyber security expert with a degree from \nMIT, enlists his family\'s help to uncover the truth \nbehind his best friend\'s untimely death.</item>
+        <item><![CDATA[Disaster strikes when a man invites his dream girl to \nan island resort, but a previous blind date with the \nsame name shows up instead.]]></item>
+        <item>A New York cop and his wife go on a European \nvacation to reinvigorate the spark in their marriage.</item>
+    </string-array>
+</resources>
